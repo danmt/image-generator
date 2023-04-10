@@ -1,4 +1,3 @@
-
 const puppeteer = require('puppeteer')
 
 function generateHtml(userName, score, imageUrl)  {
